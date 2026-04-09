@@ -16,9 +16,6 @@ export const siteConfig = {
     "C/C++",
     "Matlab",
   ],
-
-  projects: [],
-
   experience: [
     {
       company: "Personal",
@@ -29,6 +26,16 @@ export const siteConfig = {
         "Gained initial understanding of market behavior and decision-making",
         "Managed small-scale personal investment activities",
         "Achieved a profit of CNY ¥17 as an early result",
+      ],
+    },
+    {
+      company: "Gaming",
+      title: "Honor of Kings Player",
+      dateRange: "",
+      bullets: [
+        "Demonstrated strong in-game mechanics and decision-making skills",
+        "Played the hero Diao Chan with high proficiency",
+        "Achieved two consecutive matches with outstanding performance, dominating the game",
       ],
     },
   ],
