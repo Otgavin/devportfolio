@@ -1,8 +1,7 @@
 export const siteConfig = {
-  name: "Wang YiDa",
-  title: "Student From CUMT",
-  description:
-    "A student from China University of Mining and Technology who is open-minded, easygoing, and looking for a genuine and meaningful relationship.",
+  name: "Wang Da",
+  title: "Student",
+  description: "Personal portfolio of Wang Da",
   accentColor: "#1d4ed8",
 
   social: {
@@ -10,12 +9,12 @@ export const siteConfig = {
   },
 
   aboutMe:
-    "Hi, I’m Wang Da, a student from China University of Mining and Technology (CUMT). I’m an easygoing and friendly person who enjoys getting along with others in a natural and comfortable way. I like having meaningful conversations, sharing daily life experiences, and bringing positive energy to people around me. I believe that a good relationship is built on sincerity, mutual understanding, and respect. In my daily life, I enjoy staying relaxed while also improving myself step by step. Right now, I’m hoping to meet a kind and genuine girl, and slowly build a sincere and stable relationship together.",
+    "Hi, I’m Wang Da, currently studying at China University of Mining and Technology. I’m an easygoing and friendly person who enjoys communicating with others and building genuine connections. I value sincerity, mutual understanding, and a positive attitude in life. I like sharing everyday experiences and having meaningful conversations. At the same time, I am continuously improving myself step by step and exploring my interests. I’m currently hoping to meet a kind and genuine girl and build a sincere and stable relationship together.",
 
   skills: [
-    "Python (basic programming and scripting)",
-    "C/C++ (fundamental programming and problem solving)",
-    "Matlab (basic numerical computation and data processing)",
+    "Python",
+    "C/C++",
+    "Matlab",
   ],
 
   projects: [],
@@ -23,12 +22,13 @@ export const siteConfig = {
   experience: [
     {
       company: "Personal",
-      role: "Stock Investment",
+      title: "Stock Investment",
       dateRange: "",
-      achievements: [
-        "Practiced basic stock trading with a focus on understanding market behavior and personal decision-making",
-        "Gained initial experience in managing small-scale investments independently",
-        "Achieved a small profit of CNY ¥17 as a result of early exploration and learning",
+      bullets: [
+        "Explored basic stock trading independently",
+        "Gained initial understanding of market behavior and decision-making",
+        "Managed small-scale personal investment activities",
+        "Achieved a profit of CNY ¥17 as an early result",
       ],
     },
   ],
@@ -36,12 +36,11 @@ export const siteConfig = {
   education: [
     {
       school: "China University of Mining and Technology",
-      degree: "Student",
-      major: "Electronic Information Engineering",
+      degree: "Bachelor's Degree",
       dateRange: "",
       achievements: [
-        "Currently pursuing undergraduate studies in Electronic Information Engineering",
-        "Building foundational knowledge in engineering, technology, and related fields",
+        "Major in Electronic Information Engineering",
+        "Currently pursuing undergraduate studies",
       ],
     },
   ],
