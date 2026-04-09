@@ -32,6 +32,7 @@ export const siteConfig = {
       company: "Gaming",
       title: "Honor of Kings Player",
       dateRange: "",
+      link: "https://pub-7351ef3120d4470ba9bb4deff149ae87.r2.dev/b7ae00eac71ae1c5ec6955b0b179ab__V2_WT10001.MP4",
       bullets: [
         "Demonstrated strong in-game mechanics and decision-making skills",
         "Played the hero Diao Chan with high proficiency",
